@@ -1,2 +1,2 @@
 # landing-page
-Landing page project combining CSS and HTML on The Odin Project
+Landing page project combining CSS and HTML learnt in foundations of The Odin Project. Couldn't think of what to include in this landing page during this time, and the Andrew Tate sage was at its peak, so I decided to make a page on supercars. Interesting page and hopefully I can make it appear as visually appealing as planned.
