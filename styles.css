@@ -2,3 +2,20 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.links {
+    display: flex;
+}
+
+
+.links li {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px;
+}
