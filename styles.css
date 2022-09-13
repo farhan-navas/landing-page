@@ -25,25 +25,35 @@ body {
 }
 
 .introduction div {
-    padding: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .intro-speech {
     max-width: 30%;
     text-align: center;
-    display: flex;
-    flex-direction: column;
-}
-
-.intro-speech-item {
-    align-items: center;
-    justify-content: center;
 }
 
 .information {
     display: flex;
+    flex-direction: column;
+    background-color: aqua;
 }
 
-.information div {
-    flex-wrap: nowrap;
+.information .supercars {
+    display: flex;
+    justify-content: space-between;
+}
+
+.information .supercars img {
+    border-radius: 5px;
+}
+
+.information .descriptions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.quote {
+    text-align: center;
 }
