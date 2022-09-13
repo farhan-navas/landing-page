@@ -19,3 +19,31 @@ body {
     text-decoration: none;
     padding: 10px;
 }
+
+.introduction {
+    display: flex;
+}
+
+.introduction div {
+    padding: 5%;
+}
+
+.intro-speech {
+    max-width: 30%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.intro-speech-item {
+    align-items: center;
+    justify-content: center;
+}
+
+.information {
+    display: flex;
+}
+
+.information div {
+    flex-wrap: nowrap;
+}
