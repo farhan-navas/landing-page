@@ -57,3 +57,25 @@ body {
 .quote {
     text-align: center;
 }
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aqua;
+    margin: 2%;
+    border: 40px;
+    border-color: blueviolet;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.footer .footer-desc {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer .footer-desc .head {
+    font-weight: 700;
+    font-size: large;
+}
